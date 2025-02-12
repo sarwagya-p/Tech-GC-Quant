@@ -1,2 +1,5 @@
-data/
 *.parquet
+*/*.parquet
+.DS_STORE
+./data
+*.pdf
